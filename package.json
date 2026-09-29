@@ -1,0 +1,11 @@
+{
+  "name": "vast-pi-adapter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Vast.ai Serverless adapter for the pi coding agent",
+  "devDependencies": {
+    "bun-types": "^1.4.2",
+    "typescript": "^7.0.2"
+  }
+}
